@@ -1,4 +1,4 @@
-# AMAZING ANIMATED TESTIMONIAL CARDS 🎉
+# AMAZING ANIMATED FIND SQUARE ROOT 🎉
 ### Author - HAMZA KHAN LODHI
 Click Here to visit : https://hamzalodhi2023.github.io/find-square-root<br><br>
 ## Clone Repository ✌
